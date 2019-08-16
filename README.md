@@ -144,7 +144,7 @@ want to look back on how you solved a previous lab, they're all available on
 your personal GitHub account.
 
 [github]: https://github.com/
-[pr]: https://help.github.com/en/articles/about-pull-requests
+[pr]: https://help.github.com/en/articles/about-pull-reque2sts
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
 
