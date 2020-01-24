@@ -41,6 +41,7 @@ To start work on this lab, while on Learn.co, click the "Open IDE" button.
 
 Once you've got the lesson open, run `learn` in the command line. Six failed
 tests should print out, starting with this:
+'learn'
 
 ```text
 this lab
@@ -192,3 +193,7 @@ work!
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
 
 
+learn
+'learn'
+'learn submit
+'
