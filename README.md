@@ -1,4 +1,6 @@
-# Git Basics Lab
+my-repository
+
+my-repository
 
 ## Learning Goals
 
