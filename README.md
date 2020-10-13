@@ -81,7 +81,7 @@ tests to let us know when we're all done.
 ## Instructions
 
 > ***IMPORTANT TIPS TO AVOID GETTING STUCK***
-> 
+>
 > 1. The work you will do to set up the Git repository will be done in the
 >    `my-repository` directory (after you create it ;)). If you're doing `git`
 >    commands in the same directory as THIS `README` that you're reading right
@@ -148,7 +148,6 @@ As we saw above, there are **six** broken tests. Let's get them working.
   1) the local repository
        has been pushed up to the remote repository:
      AssertionError: no record of pushing to a remote was found. Follow the instructions on GitHub to connect and push to a new remote repository: value: expected './my-repository/.git/logs/refs/remotes' to exist
-```
 
 Almost done! Change _back_ into the `my-repository` directory.
 
@@ -190,5 +189,3 @@ work!
 [pr]: https://help.github.com/en/articles/about-pull-requests
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
-
-
