@@ -130,8 +130,7 @@ As we saw above, there are **six** broken tests. Let's get them working.
 
 7. Change _back_ to the top-level directory, run `learn`, and you'll see that
    the test output is looking pretty successful:
-
-  this lab
+      this lab
     ✓ has a folder named my-repository
     ✓ has a valid git repository initialized for the my-repository folder
     ✓ has a README.md file in the my-repository folder
