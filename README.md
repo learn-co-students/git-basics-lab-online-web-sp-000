@@ -130,7 +130,7 @@ As we saw above, there are **six** broken tests. Let's get them working.
 
 7. Change _back_ to the top-level directory, run `learn`, and you'll see that
    the test output is looking pretty successful:
-```text
+
   this lab
     ✓ has a folder named my-repository
     ✓ has a valid git repository initialized for the my-repository folder
@@ -148,7 +148,7 @@ As we saw above, there are **six** broken tests. Let's get them working.
   1) the local repository
        has been pushed up to the remote repository:
      AssertionError: no record of pushing to a remote was found. Follow the instructions on GitHub to connect and push to a new remote repository: value: expected './my-repository/.git/logs/refs/remotes' to exist
-
+å
 Almost done! Change _back_ into the `my-repository` directory.
 
 8. Create a remote repository on [GitHub][github] using your personal GitHub
