@@ -1,5 +1,4 @@
 # Git Basics Lab
-
 ## Learning Goals
 
 - Understand how to complete labs on Learn

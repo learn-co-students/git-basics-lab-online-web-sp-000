@@ -26,7 +26,7 @@ describe( 'the local repository', () => {
   } )
 
   it( 'has at least one commit', () => {
-    chai.assert.isDirectory( './my-repository/.git/logs', 'no commits were found.  Use "git commit -m" followed by a message to create a commit' );
+    chai.assert.isDirectory( './my-repository/.git/logs', ' no commits were found.  Use "git commit -m" followed by a message to create a commit' );
   } )
 
   it( 'has been pushed up to the remote repository', () => {
