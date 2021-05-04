@@ -27,7 +27,7 @@ This lesson will include all the steps necessary to submit your lab work to Lear
 
 ## Getting Started
 
-To start work on this lab, while on Learn.co, click the "Open IDE" button.
+To start work with this lab, while on Learn.co, click the "Open IDE" button.
 
 > If you are using the in-browser Learn IDE, the IDE will open on the page
 
