@@ -1,4 +1,4 @@
-# Git Basics Lab
+cd..cdmkdir# Git Basics Lab
 
 ## Learning Goals
 
@@ -55,8 +55,6 @@ the local repository
 
 
 0 passing (42ms)
-6 failing
-
 1) this lab
      has a folder named my-repository:
    AssertionError: no folder name "my-repository" was found: value: expected './my-repository' to exist
