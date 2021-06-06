@@ -192,3 +192,12 @@ work!
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
 
 
+cd my-repository
+cd my-repository
+
+cd my-repository
+git init
+add README.md
+cd my-repository
+git init
+add README.md
